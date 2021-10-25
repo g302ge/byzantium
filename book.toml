@@ -1,0 +1,9 @@
+[book]
+authors = ["cybernonce"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "byzantium manual"
+
+[output.html]
+mathjax-support = true
